@@ -7,29 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="620d1685-cbe7-4a3a-931a-bf9a5bc1ae7b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet01.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet01.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/project.nuget.cache" afterDir="false" />
-    </list>
+    <list default="true" id="620d1685-cbe7-4a3a-931a-bf9a5bc1ae7b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750117009864</updated>
       <workItem from="1750117014551" duration="2274000" />
-      <workItem from="1750714486810" duration="702000" />
+      <workItem from="1750714486810" duration="1379000" />
     </task>
     <servers />
   </component>
