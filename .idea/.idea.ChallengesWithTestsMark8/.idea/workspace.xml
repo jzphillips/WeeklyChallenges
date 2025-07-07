@@ -7,34 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="620d1685-cbe7-4a3a-931a-bf9a5bc1ae7b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChallengesWithTestsMark8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChallengesWithTestsMark8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet02.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet02.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.dll" afterDir="false" />
-    </list>
+    <list default="true" id="620d1685-cbe7-4a3a-931a-bf9a5bc1ae7b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -72,7 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.ChallengesWithTestsMark8">
     <configuration name="ChallengesWithTestsMark8" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -110,12 +84,14 @@
       <workItem from="1750875463625" duration="2254000" />
       <workItem from="1751840892542" duration="2184000" />
       <workItem from="1751850126213" duration="14000" />
+      <workItem from="1751850962968" duration="4624000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
